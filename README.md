@@ -2,16 +2,11 @@
 
 ## Overview
 
-The Exchange Rate Calculator App is a simple Android application that allows users to convert currencies from Euro to Czech Koruna (CZK) based on the latest exchange rates obtained from an external API.
-
 The Trending Movies App is mobile application designed to display a list of popular movies that are currently trending. The app allows users to browse through a collection of movies and view details about each movie.
 
 ## Screenshots
 
 <img src="https://user-images.githubusercontent.com/89902380/230962198-f47589a4-5d58-496b-bb1c-090513b46b8f.png" width="200" height="350"> <img src="https://user-images.githubusercontent.com/89902380/230962279-24d7ffd3-eb0c-4096-b6c0-e0dd4206fde5.png" width="200" height="350">
-
-
-
 
 
 ## Installation and Configuration
