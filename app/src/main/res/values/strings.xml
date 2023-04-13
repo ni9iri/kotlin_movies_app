@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">movies-app</string>
+    <string name="trending_movies">Trending Movies</string>
 </resources>

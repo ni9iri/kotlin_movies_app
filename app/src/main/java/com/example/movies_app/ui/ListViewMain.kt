@@ -12,8 +12,10 @@ import androidx.compose.material.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
+import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.text.style.TextAlign
 import androidx.navigation.NavController
+import com.example.movies_app.R
 import com.example.movies_app.model.MovieItem
 import com.example.movies_app.viewmodel.MainViewModel
 
@@ -55,7 +57,7 @@ fun MainHeader(){
             .background(MaterialTheme.colors.background)
     ) {
         Text(
-            text = "Trending Movies",
+            text = stringResource(R.string.trending_movies),
             style = MaterialTheme.typography.h4,
             textAlign = TextAlign.Center
         )
